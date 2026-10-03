@@ -1,0 +1,240 @@
+[
+  {
+    "sample_id": "BPT",
+    "original_file": "1 008asr.spc",
+    "version": 0.699999988079071,
+    "n_channels": 4020,
+    "energy_step_keV": 0.01,
+    "energy_offset_keV": 0.0,
+    "last_channel_keV": 40.19,
+    "display_end_energy_header_keV": 40.0,
+    "live_time_s": 20.0,
+    "accelerating_voltage_kV": 18.0,
+    "counts_sum": 74383,
+    "max_counts": 1459,
+    "spectrum_smoothed_header_flag": 0,
+    "sha256": "0df7195299c45dd91e920466d265295a8429c73ab95bedea0bf0d275d4242067",
+    "peak_identification_header": [
+      {
+        "atomic_number": 6,
+        "energy_keV": 0.26600000262260437
+      },
+      {
+        "atomic_number": 8,
+        "energy_keV": 0.5149999856948853
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 0.7789999842643738
+      },
+      {
+        "atomic_number": 82,
+        "energy_keV": 2.349600076675415
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 4.469299793243408
+      },
+      {
+        "atomic_number": 22,
+        "energy_keV": 4.51140022277832
+      }
+    ]
+  },
+  {
+    "sample_id": "BPT-Cu005",
+    "original_file": "3 002asr.spc",
+    "version": 0.699999988079071,
+    "n_channels": 4020,
+    "energy_step_keV": 0.01,
+    "energy_offset_keV": 0.0,
+    "last_channel_keV": 40.19,
+    "display_end_energy_header_keV": 40.0,
+    "live_time_s": 20.0,
+    "accelerating_voltage_kV": 18.0,
+    "counts_sum": 76441,
+    "max_counts": 1392,
+    "spectrum_smoothed_header_flag": 0,
+    "sha256": "72087263b0057426721c024c0b2fb12bfb244a9c35e2889c1a4c01aa3ab9ec75",
+    "peak_identification_header": [
+      {
+        "atomic_number": 6,
+        "energy_keV": 0.26600000262260437
+      },
+      {
+        "atomic_number": 8,
+        "energy_keV": 0.5149999856948853
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 0.7789999842643738
+      },
+      {
+        "atomic_number": 82,
+        "energy_keV": 2.349600076675415
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 4.469299793243408
+      },
+      {
+        "atomic_number": 22,
+        "energy_keV": 4.51140022277832
+      },
+      {
+        "atomic_number": 29,
+        "energy_keV": 8.044500350952148
+      }
+    ]
+  },
+  {
+    "sample_id": "BPT-Cu010",
+    "original_file": "2 002asr.spc",
+    "version": 0.699999988079071,
+    "n_channels": 4020,
+    "energy_step_keV": 0.01,
+    "energy_offset_keV": 0.0,
+    "last_channel_keV": 40.19,
+    "display_end_energy_header_keV": 40.0,
+    "live_time_s": 20.0,
+    "accelerating_voltage_kV": 18.0,
+    "counts_sum": 71214,
+    "max_counts": 1417,
+    "spectrum_smoothed_header_flag": 0,
+    "sha256": "ef91a9890b8a51dfebc465a784782a9e4a89d553462c0dc242ca1c672cb2bf24",
+    "peak_identification_header": [
+      {
+        "atomic_number": 6,
+        "energy_keV": 0.26600000262260437
+      },
+      {
+        "atomic_number": 8,
+        "energy_keV": 0.5149999856948853
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 0.7789999842643738
+      },
+      {
+        "atomic_number": 13,
+        "energy_keV": 1.4852999448776245
+      },
+      {
+        "atomic_number": 14,
+        "energy_keV": 1.738800048828125
+      },
+      {
+        "atomic_number": 82,
+        "energy_keV": 2.349600076675415
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 4.469299793243408
+      },
+      {
+        "atomic_number": 22,
+        "energy_keV": 4.51140022277832
+      },
+      {
+        "atomic_number": 29,
+        "energy_keV": 8.044500350952148
+      }
+    ]
+  },
+  {
+    "sample_id": "BPT-Cu100",
+    "original_file": "5 010asr.spc",
+    "version": 0.699999988079071,
+    "n_channels": 4020,
+    "energy_step_keV": 0.01,
+    "energy_offset_keV": 0.0,
+    "last_channel_keV": 40.19,
+    "display_end_energy_header_keV": 40.0,
+    "live_time_s": 20.0,
+    "accelerating_voltage_kV": 18.0,
+    "counts_sum": 79895,
+    "max_counts": 1600,
+    "spectrum_smoothed_header_flag": 0,
+    "sha256": "b68f7e169ec5eeeeaad0ff9baa381e016303246540c473a3d4777cae17dad0b8",
+    "peak_identification_header": [
+      {
+        "atomic_number": 6,
+        "energy_keV": 0.26600000262260437
+      },
+      {
+        "atomic_number": 8,
+        "energy_keV": 0.5149999856948853
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 0.7789999842643738
+      },
+      {
+        "atomic_number": 14,
+        "energy_keV": 1.738800048828125
+      },
+      {
+        "atomic_number": 82,
+        "energy_keV": 2.349600076675415
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 4.469299793243408
+      },
+      {
+        "atomic_number": 22,
+        "energy_keV": 4.51140022277832
+      },
+      {
+        "atomic_number": 29,
+        "energy_keV": 8.044500350952148
+      }
+    ]
+  },
+  {
+    "sample_id": "BPT-Cu300",
+    "original_file": "4 002asr.spc",
+    "version": 0.699999988079071,
+    "n_channels": 4020,
+    "energy_step_keV": 0.01,
+    "energy_offset_keV": 0.0,
+    "last_channel_keV": 40.19,
+    "display_end_energy_header_keV": 40.0,
+    "live_time_s": 20.0,
+    "accelerating_voltage_kV": 18.0,
+    "counts_sum": 82103,
+    "max_counts": 1663,
+    "spectrum_smoothed_header_flag": 0,
+    "sha256": "7c86945c2135c99b09033f98460d446827f571030f9f04aeadd19985d3e79081",
+    "peak_identification_header": [
+      {
+        "atomic_number": 6,
+        "energy_keV": 0.26600000262260437
+      },
+      {
+        "atomic_number": 8,
+        "energy_keV": 0.5149999856948853
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 0.7789999842643738
+      },
+      {
+        "atomic_number": 82,
+        "energy_keV": 2.349600076675415
+      },
+      {
+        "atomic_number": 56,
+        "energy_keV": 4.469299793243408
+      },
+      {
+        "atomic_number": 22,
+        "energy_keV": 4.51140022277832
+      },
+      {
+        "atomic_number": 29,
+        "energy_keV": 8.044500350952148
+      }
+    ]
+  }
+]

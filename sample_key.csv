@@ -1,0 +1,6 @@
+sample_id,legacy_sample_id,CuO_added_g_per_100g_BPT,SEM_EDS_group,selected_EDS_source
+BPT,BPT,0.0,1,1 008asr
+BPT-Cu005,BPTC005,0.05,3,3 002asr
+BPT-Cu010,BPTC01,0.1,2,2 002asr
+BPT-Cu100,BPTC1,1.0,5,5 010asr
+BPT-Cu300,BPTC3,3.0,4,4 002asr
